@@ -1,4 +1,4 @@
-# Text-edit
+# Text-edit-0.0
 This is a simple text-editor in python using tkinter.
 _______________________________________
 To run you need to install python from the python website: "https://www.python.org/"
